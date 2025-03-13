@@ -1,4 +1,5 @@
 {
+    "type": "module",
     "name": "tailwindcss-primeui",
     "version": "0.5.1",
     "author": "PrimeTek Informatics",
